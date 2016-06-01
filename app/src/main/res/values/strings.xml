@@ -1,7 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Beat Box</string>
     <string name="sound_button_text">Sound Name</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
